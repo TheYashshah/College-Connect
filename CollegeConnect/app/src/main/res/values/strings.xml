@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="navigation_open">open</string>
+    <string name="navigation_close">close</string>
+    <string name="app_name">College Connect</string>
+    <string name="CollegeConnect">College Connect</string>
+    <string name="Enrollment">Enrollment No</string>
+    <string name="Name">Full Name</string>
+    <string name="Currentyear">Current Year</string>
+    <string name="Department">Department</string>
+    <string name="Mobileno">Mobile No</string>
+    <string name="Email">Email Id</string>
+    <string name="Register">Register</string>
+    <string name="Createpassword">Create Password</string>
+    <string name="landingdes">Connect with your College friends and eplore College journey</string>
+    <string name="enrollmenthint">190170107138</string>
+    <string name="emailhint">virat@gmail.com</string>
+    <string name="Password">Password</string>
+    <string name="Passwordhint">**********</string>
+    <string name="Login">Login</string>
+    <string name="registertologin">Already have an Account? click Here</string>
+    <string name="Registertitle">Already \nhave an \nAccount?</string>
+    <string name="Logintitle">Already \nhave an \nAccount?</string>
+
+</resources>

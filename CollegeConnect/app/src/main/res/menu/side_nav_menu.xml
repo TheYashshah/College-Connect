@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/video"
+        android:title="Video"
+        android:icon="@drawable/ic_baseline_play_circle_outline_24"/>
+
+    <item android:id="@+id/group"
+        android:title="Group"
+        android:icon="@drawable/ic_baseline_group_24"/>
+
+    <item android:id="@+id/bookmarks"
+        android:title="Bookmarks"
+        android:icon="@drawable/ic_baseline_bookmark_24"/>
+
+    <item android:id="@+id/questions"
+        android:title="Questions"
+        android:icon="@drawable/ic_baseline_event_24"/>
+
+    <item android:id="@+id/jobs"
+        android:title="Jobs"
+        android:icon="@drawable/ic_baseline_event_24"/>
+
+    <item android:id="@+id/events"
+        android:title="Events"
+        android:icon="@drawable/ic_baseline_event_24"/>
+
+    <item android:id="@+id/courses"
+        android:title="Courses"
+        android:icon="@drawable/ic_baseline_play_circle_outline_24"/>
+
+    <item android:id="@+id/logout"
+        android:title="Log Out"
+        android:icon="@drawable/ic_baseline_logout_24"/>
+
+</menu>
